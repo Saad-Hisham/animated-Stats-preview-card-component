@@ -5,7 +5,9 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
+* {
+    text-align: center;
+}
 main {
   width: 1111px;
 }
