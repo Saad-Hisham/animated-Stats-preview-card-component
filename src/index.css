@@ -5,9 +5,7 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-* {
-    text-align: center;
-}
+
 main {
   width: 1111px;
 }
@@ -112,6 +110,9 @@ h1 span.lighted {
 
 
 @media only screen and (max-width: 768px) {
+  * {
+    text-align: center;
+}
 
   .row {
     flex-direction: column-reverse !important;
