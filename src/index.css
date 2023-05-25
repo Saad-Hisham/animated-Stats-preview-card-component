@@ -58,11 +58,11 @@ img {
   color: white;
   font-weight: 700;
   font-family: 'Inter', sans-serif;
-  font-size: 36px;
+  font-size: 35px;
   margin-top: 74px;
 }
 
-h1 span {
+h1 span.lighted {
   color: #b35cde;
 }
 
